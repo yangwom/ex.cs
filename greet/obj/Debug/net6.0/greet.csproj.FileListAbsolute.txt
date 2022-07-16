@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/greet/bin/Debug/net6.0/greet
+/home/yang/exercices.c#/greet/bin/Debug/net6.0/greet.deps.json
+/home/yang/exercices.c#/greet/bin/Debug/net6.0/greet.runtimeconfig.json
+/home/yang/exercices.c#/greet/bin/Debug/net6.0/greet.dll
+/home/yang/exercices.c#/greet/bin/Debug/net6.0/greet.pdb
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.dll
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/refint/greet.dll
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.pdb
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
+/home/yang/exercices.c#/greet/obj/Debug/net6.0/ref/greet.dll
