@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/helloword/bin/Debug/net6.0/helloword
+/home/yang/exercices.c#/helloword/bin/Debug/net6.0/helloword.deps.json
+/home/yang/exercices.c#/helloword/bin/Debug/net6.0/helloword.runtimeconfig.json
+/home/yang/exercices.c#/helloword/bin/Debug/net6.0/helloword.dll
+/home/yang/exercices.c#/helloword/bin/Debug/net6.0/helloword.pdb
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.AssemblyInfo.cs
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.dll
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/refint/helloword.dll
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.pdb
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/helloword.genruntimeconfig.cache
+/home/yang/exercices.c#/helloword/obj/Debug/net6.0/ref/helloword.dll
