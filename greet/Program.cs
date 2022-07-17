@@ -7,9 +7,16 @@ public class Ola
         // Display the number of command line arguments.
         Console.WriteLine(args.Length);
     }
-    public static string Greet()
+    public static int Greet(int number, int number1)
     {
-        return "Olá";
+      var result = number + number1;
+
+      return result;
+    }
+
+    public static string OlaMundo(string name) {
+      
+      return name;
     }
 }
 
