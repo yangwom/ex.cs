@@ -1,0 +1,36 @@
+instalando o dotnet core linux 
+comandos 
+- $ wget https://packages.microsoft.com/config/ubuntu/21.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+-
+
+$ sudo dpkg -i packages-microsoft-prod.deb
+
+instalando o sdk
+-   $ sudo apt-get install -y dotnet-sdk-6.0
+
+
+lint para cs configurando vs code
+
+-  "[csharp]": {
+     "editor.defaultFormatter": "ms-dotnettools.csharp"
+ },
+ "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+ "omnisharp.enableRoslynAnalyzers": true,
+
+cria uma aplicação em console - dotnet new console -o <nome da pasta>
+
+compilar o codigo - dotnet build
+
+executar o codigo - dotnet run
+
+projeto web api - dotnet new webapi -o <nomeDoProjeto>
+
+projeto mvc - dotnet new mvc -o <nomeDoProjeto>
+
+projetos de biblioteca - dotnet new classlib -o <nomeDoProjeto>
+
+para fazer testes - dotnet new xunit -o <nome do projeto>
+
+para adicionar um pacote dotnet - dotnet add package FluentAssertions --version 6.5.1
+
+para adicionar uma referencia pra fazer teste - dotnet add reference ../greet/greet.csproj
