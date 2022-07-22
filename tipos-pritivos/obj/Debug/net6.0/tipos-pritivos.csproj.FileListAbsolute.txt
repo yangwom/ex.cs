@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/tipos-pritivos/bin/Debug/net6.0/tipos-pritivos
+/home/yang/exercices.c#/tipos-pritivos/bin/Debug/net6.0/tipos-pritivos.deps.json
+/home/yang/exercices.c#/tipos-pritivos/bin/Debug/net6.0/tipos-pritivos.runtimeconfig.json
+/home/yang/exercices.c#/tipos-pritivos/bin/Debug/net6.0/tipos-pritivos.dll
+/home/yang/exercices.c#/tipos-pritivos/bin/Debug/net6.0/tipos-pritivos.pdb
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.AssemblyInfo.cs
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.dll
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/refint/tipos-pritivos.dll
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.pdb
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/tipos-pritivos.genruntimeconfig.cache
+/home/yang/exercices.c#/tipos-pritivos/obj/Debug/net6.0/ref/tipos-pritivos.dll
