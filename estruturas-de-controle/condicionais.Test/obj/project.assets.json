@@ -1709,6 +1709,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "condicionaisC#/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/condicionaisC#.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/condicionaisC#.dll": {}
+        }
       }
     }
   },
@@ -6094,12 +6104,18 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "condicionaisC#/1.0.0": {
+      "type": "project",
+      "path": "../condicionaisC#/condicionaisC#.csproj",
+      "msbuildProject": "../condicionaisC#/condicionaisC#.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "FluentAssertions >= 6.5.1",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "condicionaisC# >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6129,7 +6145,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/yang/exercices.c#/estruturas-de-controle/condicionaisC#/condicionaisC#.csproj": {
+              "projectPath": "/home/yang/exercices.c#/estruturas-de-controle/condicionaisC#/condicionaisC#.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
