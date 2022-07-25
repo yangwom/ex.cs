@@ -1,7 +1,7 @@
 ﻿namespace condicionais;
 
 
-public class Program
+public static class Program
 {
     public static int radius;
 
@@ -97,7 +97,7 @@ public class Program
     public static string IdentifyPolygon(int sideCount)
 {
     string name;
-    
+
     switch (sideCount)
     {
         case < 3:
