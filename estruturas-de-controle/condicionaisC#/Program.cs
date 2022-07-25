@@ -5,7 +5,7 @@ public class Program
 {
     public static int radius;
 
-    public static int number;
+    public static int isNumber;
     public static void Main()
     {
         Console.WriteLine("Informe o raio de um círculo (deve ser um número inteiro)");
@@ -30,16 +30,19 @@ public class Program
         {
             Console.WriteLine("O texto digitado não é um número inteiro.");
         }
-        
-        VerifyNumber();
+
+        VerifyNumberIf();
+        VerifyNumberSwitchCase();
 
     }
-    public static void VerifyNumber()
+    public static void VerifyNumberIf()
 
-    {
-        Console.WriteLine("digite um numero");
+     {
+         Console.WriteLine("digite um numero");
 
-        int isNumber = int.Parse(Console.ReadLine()!);
+        var isNumber = int.Parse(Console.ReadLine()!);
+       
+
 
         if (isNumber > 0)
         {
@@ -57,6 +60,29 @@ public class Program
                 Console.WriteLine("igual a zero");
             }
         }
+
+    }
+
+    public static void VerifyNumberSwitchCase()
+    {
+        Console.WriteLine("digite o numero novamente aqui sera verificado com switch case");
+        var isNumber = int.Parse(Console.ReadLine()!);
+       
+
+        switch (isNumber)
+        {
+            case > 0:
+                Console.WriteLine("maior que zero");
+                break;
+
+            case < 0:
+                Console.WriteLine("menor que zero");
+                break;
+            default:
+                Console.WriteLine("igual a zero");
+                break;
+        }
+
     }
 }
 
