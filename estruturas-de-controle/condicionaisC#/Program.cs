@@ -6,6 +6,7 @@ public class Program
     public static int radius;
 
     public static int isNumber;
+
     public static void Main()
     {
         Console.WriteLine("Informe o raio de um círculo (deve ser um número inteiro)");
@@ -92,6 +93,31 @@ public class Program
         !=	Diferente	a != b	Se a for diferente de b
         */
     }
+
+    public static string IdentifyPolygon(int sideCount)
+{
+    string name;
+    
+    switch (sideCount)
+    {
+        case < 3:
+            name = "Não é um polígono";
+            break;
+        case 3:
+            name = "Triângulo";
+            break;
+        case 4:
+            name = "Quadrado";
+            break;
+        case 5:
+            name = "Pentágono";
+            break;
+        default:
+            name = "Polígono não identificado";
+            break;
+    }
+    return name;
+}
 }
 
 
