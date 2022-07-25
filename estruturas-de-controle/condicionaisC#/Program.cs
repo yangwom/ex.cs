@@ -37,11 +37,11 @@ public class Program
     }
     public static void VerifyNumberIf()
 
-     {
-         Console.WriteLine("digite um numero");
+    {
+        Console.WriteLine("digite um numero");
 
         var isNumber = int.Parse(Console.ReadLine()!);
-       
+
 
 
         if (isNumber > 0)
@@ -67,7 +67,7 @@ public class Program
     {
         Console.WriteLine("digite o numero novamente aqui sera verificado com switch case");
         var isNumber = int.Parse(Console.ReadLine()!);
-       
+
 
         switch (isNumber)
         {
@@ -81,8 +81,16 @@ public class Program
             default:
                 Console.WriteLine("igual a zero");
                 break;
+        
         }
-
+        /* operadores de comparação no c#  não muda qualse nada do java script
+         >	Maior	a > b	Se a for maior que b
+        >=	Maior ou igual	a >= b	Se a for maior ou igual a b
+        <	Menor	a < b	Se a for menor que b
+        <=	Menor ou igual	a <= b	Se a for menor ou igual a b
+        ==	Igual	a == b	Se a for igual a b
+        !=	Diferente	a != b	Se a for diferente de b
+        */
     }
 }
 
