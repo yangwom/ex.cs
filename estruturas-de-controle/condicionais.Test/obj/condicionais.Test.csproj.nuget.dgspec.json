@@ -40,7 +40,7 @@
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
-              "version": "[6.7.0, )"
+              "version": "[6.5.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
