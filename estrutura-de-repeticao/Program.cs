@@ -61,7 +61,7 @@ foreach (var vote in votes)
 }  
 Console.WriteLine(count + " votos válidos");
 
- 
+ IndexOf(new int[]{5, 6, 7}, 6);
 }
 
   public static int CountOf(int[] numbers, int value)
@@ -72,9 +72,28 @@ Console.WriteLine(count + " votos válidos");
         {
             if(number == value) count++;
         }
-
+          
         return count;
     }
+
+     public static int IndexOf(int[] numbers, int value)
+    {     
+        var position = -1;
+
+        for(int i= 0; i < numbers.Length; i++)
+        {        
+          Console.WriteLine(numbers.Length + " eu sou o Length");
+            if(numbers[i] == value)
+            {
+                position = i;
+                break;
+            }        
+        }
+        
+        return position;
+    }
+
+
   
     }
 
