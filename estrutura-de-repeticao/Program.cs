@@ -59,6 +59,8 @@ foreach (var vote in votes)
         continue;
     count++;    
 }  
+
+
 Console.WriteLine(count + " votos válidos");
 
  IndexOf(new int[]{5, 6, 7}, 6);
@@ -74,10 +76,13 @@ Console.WriteLine(count + " votos válidos");
         }
           
         return count;
+
+  
     }
 
      public static int IndexOf(int[] numbers, int value)
     {     
+      
         var position = -1;
 
         for(int i= 0; i < numbers.Length; i++)
@@ -87,11 +92,22 @@ Console.WriteLine(count + " votos válidos");
             {
                 position = i;
                 break;
-            }        
+            }   
+
+                  for (int counta = 0; counta < 10; counta++)
+{
+    if(counta == 5)
+        break;
+
+    Console.Write(counta + " kkk");
+    
+}     
         }
         
         return position;
     }
+
+ 
 
 
   
