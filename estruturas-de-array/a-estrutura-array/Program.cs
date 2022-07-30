@@ -8,8 +8,43 @@ int[] myFirstArray;
 // importante é que o tamanho de um Array em C# é imutável, 
 // ou seja, assim que a instância de um Array é criada, o seu 
 // tamanho não pode ser alterado.
+int[,,] multiDimensionalArray1 = new int[2, 3, 3] {
+    {{1, 2, 2}, 
+    {1, 4, 6}, 
+    {1, 2, 3}},
+    {{1, 2, 3}, 
+    {1 ,4, 5}, 
+    {2, 4, 6}}
+};
 
-int[,] multiDimensionalArray = { { 1, 2, 3 }, { 4, 5, 6 } };
+ int[,] fromArrayToTwoDimArray(int[] array, int lines, int columns)
+{
+    int[,] result = new int[lines, columns];
+    for (int i = 0; i < array.Length; i++)
+    {
+        result[i / lines, i % columns] = array[i];
+    }
+    return result;
+}
+
+Console.WriteLine(multiDimensionalArray1[1, 0, 2] + " vc é 2?");
+
+int[,] multiDimensionalArray = { 
+{ 1, 2, 3 }, 
+{ 4, 5, 6 } 
+};
+
+int[,,] myArray = new int[,,] {
+            {
+                { 1, 2, 3 },
+                { 4, 5, 6 },
+            },
+            {
+                { 7, 8, 9 },
+                { 10, 11, 12 },
+            }
+        };
+    
 
 myFirstArray = new int[5] { 1, 2, 3, 4, 5};
 
@@ -36,9 +71,9 @@ foreach (string name in myFirsStringArray1)
     jaggedArray[0] = new int[4] { 6, 6, 6, 6 };
     jaggedArray[1] = new int[3] { 6, 6, 6 };
     jaggedArray[2] = new int[5] { 6, 6, 6, 6, 6 };
-    jaggedArray[3] = new int[2] { 6, 6 };h
+    jaggedArray[3] = new int[2] { 6, 6 };
 
-    int[,,] multiDimensionalArray1 = new int[2, 3, 3];
+   // int[,,] multiDimensionalArray1 = new int[2, 3, 3];
 
 int[,,] multiDimensionalArray2 = { { { 1, 2 }, { 3, 4 } }, { { 5, 6 }, { 7, 8 } } };
 //Console.WriteLine(multiDimensionalArray2[1, 1, 1]);
