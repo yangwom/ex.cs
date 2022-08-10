@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/bin/Debug/net6.0/a-estrutura-array
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/bin/Debug/net6.0/a-estrutura-array.deps.json
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/bin/Debug/net6.0/a-estrutura-array.runtimeconfig.json
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/bin/Debug/net6.0/a-estrutura-array.dll
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/bin/Debug/net6.0/a-estrutura-array.pdb
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.AssemblyInfo.cs
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.dll
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/refint/a-estrutura-array.dll
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.pdb
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/a-estrutura-array.genruntimeconfig.cache
+/home/yang/exercices.c#/estruturas-de-array/a-estrutura-array/obj/Debug/net6.0/ref/a-estrutura-array.dll

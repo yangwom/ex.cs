@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/bin/Debug/net6.0/lidando-com-execeções-em-c#
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/bin/Debug/net6.0/lidando-com-execeções-em-c#.deps.json
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/bin/Debug/net6.0/lidando-com-execeções-em-c#.runtimeconfig.json
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/bin/Debug/net6.0/lidando-com-execeções-em-c#.dll
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/bin/Debug/net6.0/lidando-com-execeções-em-c#.pdb
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.AssemblyInfo.cs
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.dll
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/refint/lidando-com-execeções-em-c#.dll
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.pdb
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/lidando-com-execeções-em-c#.genruntimeconfig.cache
+/home/yang/exercices.c#/lidando-com-execeções-em-c#/obj/Debug/net6.0/ref/lidando-com-execeções-em-c#.dll
