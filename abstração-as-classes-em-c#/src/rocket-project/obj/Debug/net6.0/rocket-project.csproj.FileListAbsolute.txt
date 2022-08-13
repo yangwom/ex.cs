@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/bin/Debug/net6.0/rocket-project
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/bin/Debug/net6.0/rocket-project.deps.json
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/bin/Debug/net6.0/rocket-project.runtimeconfig.json
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/bin/Debug/net6.0/rocket-project.dll
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/bin/Debug/net6.0/rocket-project.pdb
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.AssemblyInfo.cs
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.dll
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/refint/rocket-project.dll
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.pdb
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/rocket-project.genruntimeconfig.cache
+/home/yang/exercices.c#/abstração-as-classes-em-c#/src/rocket-project/obj/Debug/net6.0/ref/rocket-project.dll
