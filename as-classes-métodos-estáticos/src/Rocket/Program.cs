@@ -4,7 +4,11 @@ public class Program  {
 
 public static void Main()
 {
-Console.WriteLine("oi");
+
+
+ Trybe.Students = new string[] { "ruy", "yang", "breno", "fadiga", "vinicius" };
+
+ Trybe.PrintStudents();
 }
 
 }
