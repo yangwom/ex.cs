@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿using static  System.Console;
+// See https://aka.ms/new-console-template for more information
+namespace modificadores;
 class MyClass
 {
     /*
@@ -9,3 +10,26 @@ Cuidado: Tipos, atributos e métodos sempre públicos não são uma boa prática
     */
     public string example = "uma variável publica."; 
 }
+
+public  class MyClass2
+ /*
+O modificador protected permite o acesso e referência para itens na mesma classe ou em classes herdeiras.
+ */
+
+{
+    protected readonly string example = "um atributo protegido.";
+}
+
+class MyClass3 : MyClass2
+{
+
+       static void Main()
+    {
+
+     var ex = new MyClass3();
+    WriteLine(ex.example);
+        
+    }
+}
+
+
