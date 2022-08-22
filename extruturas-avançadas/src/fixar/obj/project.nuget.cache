@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIV/N32JGwUaKQhBoinQ2lss1mp+46NzqnRzcdexySWIXN/oc/l8t9vaUBvzHlY0wHV7oOtIyT+falUxX0G0/g==",
+  "success": true,
+  "projectFilePath": "/home/yang/exercices.c#/extruturas-avançadas/src/fixar/fixar.csproj",
+  "expectedPackageFiles": [
+    "/home/yang/.nuget/packages/fluentassertions/6.7.0/fluentassertions.6.7.0.nupkg.sha512",
+    "/home/yang/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/home/yang/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
