@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/bin/Debug/net6.0/exercises
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/bin/Debug/net6.0/exercises.deps.json
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/bin/Debug/net6.0/exercises.runtimeconfig.json
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/bin/Debug/net6.0/exercises.dll
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/bin/Debug/net6.0/exercises.pdb
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.AssemblyInfo.cs
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.dll
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/refint/exercises.dll
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.pdb
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/exercises.genruntimeconfig.cache
+/home/yang/exercices.c#/interfaces-classes-abstratas-polimorfismo/src/exercises/obj/Debug/net6.0/ref/exercises.dll

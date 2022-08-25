@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/livroCSharp/cap3/bin/Debug/net6.0/cap3
+/home/yang/exercices.c#/livroCSharp/cap3/bin/Debug/net6.0/cap3.deps.json
+/home/yang/exercices.c#/livroCSharp/cap3/bin/Debug/net6.0/cap3.runtimeconfig.json
+/home/yang/exercices.c#/livroCSharp/cap3/bin/Debug/net6.0/cap3.dll
+/home/yang/exercices.c#/livroCSharp/cap3/bin/Debug/net6.0/cap3.pdb
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.AssemblyInfo.cs
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.dll
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/refint/cap3.dll
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.pdb
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/cap3.genruntimeconfig.cache
+/home/yang/exercices.c#/livroCSharp/cap3/obj/Debug/net6.0/ref/cap3.dll
