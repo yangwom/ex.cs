@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/manipulação-de-tipos/datas/bin/Debug/net6.0/datas
+/home/yang/exercices.c#/manipulação-de-tipos/datas/bin/Debug/net6.0/datas.deps.json
+/home/yang/exercices.c#/manipulação-de-tipos/datas/bin/Debug/net6.0/datas.runtimeconfig.json
+/home/yang/exercices.c#/manipulação-de-tipos/datas/bin/Debug/net6.0/datas.dll
+/home/yang/exercices.c#/manipulação-de-tipos/datas/bin/Debug/net6.0/datas.pdb
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.AssemblyInfo.cs
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.dll
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/refint/datas.dll
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.pdb
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/datas.genruntimeconfig.cache
+/home/yang/exercices.c#/manipulação-de-tipos/datas/obj/Debug/net6.0/ref/datas.dll
