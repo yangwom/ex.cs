@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/bin/Debug/net6.0/fixar-colection
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/bin/Debug/net6.0/fixar-colection.deps.json
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/bin/Debug/net6.0/fixar-colection.runtimeconfig.json
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/bin/Debug/net6.0/fixar-colection.dll
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/bin/Debug/net6.0/fixar-colection.pdb
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.AssemblyInfo.cs
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.dll
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/refint/fixar-colection.dll
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.pdb
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/fixar-colection.genruntimeconfig.cache
+/home/yang/exercices.c#/coleção-de-dados-em-c#/src/fixar-colection/obj/Debug/net6.0/ref/fixar-colection.dll
