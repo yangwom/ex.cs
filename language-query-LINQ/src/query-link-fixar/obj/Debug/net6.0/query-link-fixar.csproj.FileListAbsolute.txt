@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/bin/Debug/net6.0/query-link-fixar
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/bin/Debug/net6.0/query-link-fixar.deps.json
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/bin/Debug/net6.0/query-link-fixar.runtimeconfig.json
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/bin/Debug/net6.0/query-link-fixar.dll
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/bin/Debug/net6.0/query-link-fixar.pdb
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.AssemblyInfo.cs
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.dll
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/refint/query-link-fixar.dll
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.pdb
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/query-link-fixar.genruntimeconfig.cache
+/home/yang/exercices.c#/language-query-LINQ/src/query-link-fixar/obj/Debug/net6.0/ref/query-link-fixar.dll
