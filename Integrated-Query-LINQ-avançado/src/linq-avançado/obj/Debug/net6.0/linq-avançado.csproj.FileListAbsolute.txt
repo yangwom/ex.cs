@@ -1,0 +1,15 @@
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/bin/Debug/net6.0/linq-avançado
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/bin/Debug/net6.0/linq-avançado.deps.json
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/bin/Debug/net6.0/linq-avançado.runtimeconfig.json
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/bin/Debug/net6.0/linq-avançado.dll
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/bin/Debug/net6.0/linq-avançado.pdb
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.csproj.AssemblyReference.cache
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.AssemblyInfoInputs.cache
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.AssemblyInfo.cs
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.csproj.CoreCompileInputs.cache
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.dll
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/refint/linq-avançado.dll
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.pdb
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/linq-avançado.genruntimeconfig.cache
+/home/yang/exercices.c#/Integrated-Query-LINQ-avançado/src/linq-avançado/obj/Debug/net6.0/ref/linq-avançado.dll
