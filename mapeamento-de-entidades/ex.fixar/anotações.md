@@ -88,3 +88,26 @@ using (var db = new MyContext())
     db.Database.EnsureCreated();
     // Código executado no banco de dados aqui
 }
+
+tabela de convenção
+
+Convenção	Descrição
+
+schema	Por default, o Entity Framework cria os DB como dbo.NomeDatabase
+
+Nome de Tabelas	Nome da propriedade DbSet na classe DbContext
+Chave Primária	Como vimos na lição, o padrão é o nome da Classe + Id e deve ser de algum tipo numérico ou um Guid
+
+Chave Estrangeira	Será criada uma chave estrangeira quando existir uma
+
+propriedade do tipo de outro modelo (propriedade de navegação) presente no
+
+banco de dados. A chave estrangeira será o nome do modelo + Id.
+
+Coluna Null	A partir do .NET 6 uma coluna será anulável se a propriedade
+
+ associada a ela tiver ?.
+Coluna Not Null	A partir do .NET 6 uma coluna será NÃO anulável se a propriedade associada a ela NÃO tiver ?.
+Ordenação das Colunas	Será usada a mesma ordem das propriedades do Model, Primary Keys têm prioridade
+Mapeamento de propriedades para o DB	Por padrão, todas as propriedades serão mapeadas, se não quiser que seja mapeada, use a data annotation [NotMapped]
+Deleção por cascateamento	Por padrão, estará ativo para todas as relações obrigatórias, ou seja, as relações em que a chave estrangeira é não anulável.
